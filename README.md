@@ -4,4 +4,4 @@ A fusion mask-guided semantic modelling approach
 
 Data link:https://drive.google.com/drive/folders/1VKSroVZ5bYf9DH7db43Wkh4v6eipOOwM?usp=sharing
 
-More implementation details will be released soon.
+More implementation details will be released soon！
